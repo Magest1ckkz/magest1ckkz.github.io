@@ -1,0 +1,17 @@
+body {
+    color: #3dc12f;
+    font-family: 'Liberation Mono', 'Consolas', monospace;
+    background-image: url("https://static.tildacdn.com/tild3939-3432-4636-b562-383133353233/51aea3393b8234a1e69d.gif");
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+
+  li {
+    font-size: 13px;
+  }
