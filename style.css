@@ -15,3 +15,13 @@ body {
   li {
     font-size: 13px;
   }
+
+  a:link {
+    color: #00b8d0; /* Цвет ссылок */
+   }
+   a:visited {
+    color: #007f90; /* Цвет посещенных ссылок */
+   }
+   a:active {
+    color: rgb(38, 0, 255); /* Цвет активной ссылки */
+   }
