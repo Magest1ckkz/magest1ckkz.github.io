@@ -17,11 +17,11 @@ body {
   }
 
   a:link {
-    color: #00b8d0; /* Цвет ссылок */
+    color: #00b8d0;
    }
    a:visited {
-    color: #007f90; /* Цвет посещенных ссылок */
+    color: #007f90;
    }
    a:active {
-    color: rgb(38, 0, 255); /* Цвет активной ссылки */
+    color: rgb(38, 0, 255);
    }
